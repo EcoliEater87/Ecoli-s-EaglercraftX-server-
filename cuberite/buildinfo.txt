@@ -1,0 +1,1 @@
+Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master)-#359\nhttps://builds.cuberite.org/job/linux-x86_64/359/

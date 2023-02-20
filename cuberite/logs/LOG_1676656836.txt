@@ -1,0 +1,21 @@
+     [18:00:36] --- Started Log ---
+     [18:00:36] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #359)
+     [18:00:36] from commit 847884b6a803650903b871054adcde19921af8b5 built at: Wed Jan 25 21:45:39 UTC 2023
+     [18:00:36] Creating new server instance...
+     [18:00:36] Reading server config...
+     [18:00:36] Starting server...
+Info [18:00:36] Compatible clients: 1.8.x-1.12.x
+Warn [18:00:36] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+Info [18:00:36] Creating default ranks...
+Info [18:00:36] Default ranks created.
+     [18:00:36] Loaded 789 crafting recipes
+Warn [18:00:36] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [18:00:36] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [18:00:36] Loaded 1.12.2 380 recipe book
+     [18:00:36] Loaded 67 furnace recipes and 66 fuels
+     [18:00:36] Loaded 49 brewing recipes
+Warn [18:00:36] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [18:00:36] Cannot read world settings from "world/world.ini", defaults will be used.
+Info [18:00:36] Chosen a new random seed for world: 1962880434
+Warn [18:00:37] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [18:00:37] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
